@@ -2,17 +2,20 @@
 title: About Me
 feature_text: |
   ## Vinay Kumar
-  Computational Astrophysicist | Astrophysical Fluids and Plasmas
+  Computational Astrophysicist | International Centre for Theoretical Sciences
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am "
 ---
 
-I am a computational astrophysicist working for my Ph.D. at the [International Centre for Theoretical Sciences](https://icts.res.in/) of the [Tata Institute of Fundamental Research](https://tifr.res.in).
+
+I am a research scholar in the Astrophysics and Relativity group at the International Centre for Theoretical Sciences [(ICTS)](https://icts.res.in/) of the [Tata Institute of Fundamental Research](https://tifr.res.in). I am currently working towards my Ph.D. with Prof. Pallavi Bhat on Astrophysical Fluids and Plasmas.
+
+Prior to joining ICTS, I was a Bachelor's student at the Department of Physics, Jamia Millia Islamia, Delhi. For my detailed CV, click here.
 
 <!-- ### Find me on
 {% include button.html text="Github" icon="github" link="https://github.com/the21vk" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 
-## Features
+## Research Interests
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point

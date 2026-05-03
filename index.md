@@ -8,7 +8,7 @@ excerpt: "I am "
 ---
 
 
-I am a research scholar in the Astrophysics and Relativity group at the International Centre for Theoretical Sciences [(ICTS)](https://icts.res.in/) of the [Tata Institute of Fundamental Research](https://tifr.res.in). I am currently working towards my Ph.D. with Prof. Pallavi Bhat on Astrophysical Fluids and Plasmas.
+I am a research scholar in the Astrophysics and Relativity group at the International Centre for Theoretical Sciences [(ICTS)](https://icts.res.in/) of the [Tata Institute of Fundamental Research](https://tifr.res.in). I am currently working towards my Ph.D. with Prof. Pallavi Bhat with a focus on fluid and plasma processes in astrophysical settings. 
 
 Prior to joining ICTS, I was a Bachelor's student at the Department of Physics, Jamia Millia Islamia, Delhi. For my detailed CV, click here.
 
@@ -17,7 +17,7 @@ Prior to joining ICTS, I was a Bachelor's student at the Department of Physics, 
 
 ## Research Interests
 
-I am interested in Fluid and Plasma Dynamics in Astrophysical settings and computational methods to study such phenomena. In particular, I am looking at magnetic reconnection, a phenomenon where magnetic field lines cut and rejoin resulting in a change in the topology of the fields and the expulsion of a large amount of energy. Reconnection is observed in various places across length scales in the universe - from confinement breakdown in fusion reactors and the magnetic storms in the earth's magnetosphere to solar flares, astrophysical jets, and gamma ray bursts. 
+I am interested in Fluid and Plasma Dynamics in Astrophysical settings and computational methods to study such phenomena. In particular, I am looking at magnetic reconnection, a phenomenon where magnetic field lines cut and rejoin resulting in a change in the topology of the fields and the expulsion of a large amount of energy. Reconnection is observed in various places across length scales in the universe —  from confinement breakdown in fusion reactors and the magnetic storms in the earth's magnetosphere to solar flares, astrophysical jets, and gamma ray bursts. 
 
 <!-- Currently, I am exploring magnetic reconnection in 3D by performing numerical experiments using MHD simulations. The movie below shows one such simulation. -->
 
